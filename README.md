@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratik Bhoodatt</h1>
 <h3 align="center">Aspiring Data Analyst</h3>
 
-- 👨‍💻 All of my projects are available at [pratikvisuals.in](pratikvisuals.in)
-
 - 📫 How to reach me **ipratik2023@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
