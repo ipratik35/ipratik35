@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratik Bhoodatt</h1>
 <h3 align="center">Python & Data Science</h3>
 
-- 👨‍💻 All of my projects are available at [https://pratikvisuals.in/](https://pratikvisuals.in/)
+- 👨‍💻 Portfolio Website at [https://pratikvisuals.in/](https://pratikvisuals.in/)
 
 - 💬 Ask me about **Data and Python**
 
