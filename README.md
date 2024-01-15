@@ -3,7 +3,7 @@
 
 - 👨‍💻 Portfolio Website at [https://pratikvisuals.in/](https://pratikvisuals.in/)
 
-- 💬 Ask me about **Data and Python**
+- 💬 Ask me about **Data**
 
 - 📫 How to reach me **ipratik2023@gmail.com**
 
